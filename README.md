@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Chloe(minzhi)
 - 🤩 I am a passionate statistics student at Simon Fraser University (I love statistics and data analysis) ❤️
 - 👀 A girl who loves coding
-- 🌱 I’m currently learning Tableau and VBA
-- 💞️ I’m looking to collaborate on data analysis project!!
+- 🌱 Continuous Learning; Recently reviewing calculus
 - 📫 How to reach me: huangminzxx@gamil.com 
 
 <!---
