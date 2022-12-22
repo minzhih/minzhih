@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chloe(Minzhi)
 - 🤩 I am a passionate statistics student at Simon Fraser University (I love statistics and data analysis)
-- 👀 A girl who loves coding
+- 👀 A girl who loves coding and technology; Corgi also!
 - 🌱 Continuous Learning
 - 📫 How to reach me: minzhih@sfu.ca
 
