@@ -7,7 +7,6 @@
 
  
 ✨ One sentence I like regarding statistics: “All knowledge is, in the final analysis, history. All sciences are, in the abstract, mathematics. All judgments are, in their rationale, statistics.” - C.R.Rao
-
 ✨ One sentence I like regarding life: "There is a crack in everything that is how the light gets in."
 <!---
 minzhih/minzhih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
