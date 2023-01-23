@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Chloe (Minzhi)
 - 🤩 I am a passionate sinor statistics student at Simon Fraser University
 - 👀 A girl who loves coding and is a tech fan
+- 📚 Recently learning Survival Analysis
 - 🌱 Continuous Learning; Life Long Learner
 - 📫 How to reach me: minzhih@sfu.ca
 
